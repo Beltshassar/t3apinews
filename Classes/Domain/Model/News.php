@@ -101,6 +101,7 @@ use SourceBroker\T3api\Filter\UidFilter;
  *          "alternativeTitle": "partial",
  *          "bodytext": "partial",
  *          "tags.title": "partial",
+ *          "tnum": "partial",
  *     },
  *     arguments={
  *          "parameterName": "search",
