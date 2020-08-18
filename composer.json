@@ -4,7 +4,7 @@
     "GPL-2.0-or-later"
   ],
   "type": "typo3-cms-extension",
-  "description": "T3api sample for ext:news",
+  "description": "T3api sample for ext:news - local mod for t-num",
   "authors": [
     {
       "name": "SourceBroker Team",
