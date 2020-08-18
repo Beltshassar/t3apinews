@@ -108,7 +108,7 @@ use SourceBroker\T3api\Filter\UidFilter;
  *     }
  * )
  */
-class News extends \GeorgRinger\News\Domain\Model\News
+class News extends \IMHLab\NewsTnum\Domain\Model\TContainer
 {
 
     /**
