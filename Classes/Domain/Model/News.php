@@ -254,6 +254,15 @@ class News extends \GeorgRinger\News\Domain\Model\News
      * })
      */
     protected $falMedia;
+    
+     /**
+     * @var string
+     * @T3api\Serializer\Groups({
+     *     "api_get_collection_t3apinews_news",
+     *     "api_get_item_t3apinews_news",
+     * })
+     */
+    protected $tnum;
 
     /**
      * @T3api\Serializer\VirtualProperty()
