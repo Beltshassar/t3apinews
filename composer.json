@@ -12,9 +12,9 @@
     }
   ],
   "require": {
-    "typo3/cms-core": "^9.5 || ^10.4",
-    "sourcebroker/t3api": "^1.0",
-    "georgringer/news": "^8.0 || ^9"
+    "typo3/cms-core": "^9.5 || ^10.4 || ^11 || ^12 || ^13 || ^14",
+    "sourcebroker/t3api": "^1.0 || ^2 || ^3 || ^4",
+    "georgringer/news": "^8.0 || ^9 || ^10 || ^11 || ^12 || ^13 || ^14"
   },
   "autoload": {
     "psr-4": {
